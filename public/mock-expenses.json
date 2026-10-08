@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Groceries", "amount": 1250, "category": "Food", "date": "2026-10-01" },
+  { "id": 2, "title": "Bus Pass", "amount": 600, "category": "Travel", "date": "2026-10-02" },
+  { "id": 3, "title": "Internet Bill", "amount": 799, "category": "Bills", "date": "2026-10-03" },
+  { "id": 4, "title": "Movie Night", "amount": 450, "category": "Entertainment", "date": "2026-10-05" },
+  { "id": 5, "title": "Notebook & Pens", "amount": 220, "category": "Education", "date": "2026-10-06" }
+]
